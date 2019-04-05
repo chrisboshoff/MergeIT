@@ -1,0 +1,17 @@
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\MergeIT.exe.config
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\MergeIT.exe
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\MergeIT.pdb
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\PdfSharp.Charting.dll
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\PdfSharp.dll
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\PdfSharp.xml
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\PdfSharp.Charting.xml
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\de\PdfSharp.resources.dll
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.csprojAssemblyReference.cache
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.MainForm.resources
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.Properties.Resources.resources
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.csproj.GenerateResource.cache
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.csproj.CoreCompileInputs.cache
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.csproj.CopyComplete
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.exe
+C:\Users\chrisb\Documents\Visual Studio 2017\Projects\MergeIT\MergeIT\obj\Release\MergeIT.pdb
